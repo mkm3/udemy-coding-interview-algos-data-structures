@@ -11,3 +11,5 @@ def fib(n):
     return fib(n-1) + fib(n-2)
 
 print(fib(8))
+print(fib(2))
+print(fib(4))
